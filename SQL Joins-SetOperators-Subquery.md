@@ -1,7 +1,7 @@
 Tables Used As Examples
 
 Customers
-| ID | Name    | Manager\_ID |
+| ID | Name    | Manager_ID |
 | -- | ------- | ----------- |
 | 1  | Alice   | NULL        |
 | 2  | Bob     | 1           |
@@ -9,7 +9,7 @@ Customers
 | 4  | David   | 2           |
 
 Orders
-| Order\_ID | Customer\_ID | Product |
+| Order_ID | Customer_ID | Product |
 | --------- | ------------ | ------- |
 | 101       | 1            | Laptop  |
 | 102       | 2            | Phone   |
